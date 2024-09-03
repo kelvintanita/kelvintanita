@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kelvintanita@gmail.com**
 
-- 📄 Know about my experiences [I have been working as an application developer for 16 years. I spent a long time working in public institutions, and I am currently working in the education sector.](I have been working as an application developer for 16 years. I spent a long time working in public institutions, and I am currently working in the education sector.)
+- 📄 Know about my experiences [I have been working as an application developer for 16 years. I spent a long time working in public institutions, and I am currently working in the education sector.]
 
 - ⚡ Fun fact **I have worked as a singer in a bar.**
 
