@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvintanita" alt="kelvintanita" /></a> </p>
 
-- 🔭 I’m currently working on **at Cogna Educação, developing tools for generating diplomas for students who graduate from the institution.**
+- 🔭 I’m currently working on **at Cogna Educação, developing tools for generating degree for students who graduate from the institution.**
 
 - 🌱 I’m currently learning to **become a blockchain developer, studying Solidity and Cairo.**
 
