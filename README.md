@@ -1,14 +1,14 @@
 ## Olá, eu sou o Kelvin 👋
 
-Desenvolvedor apaixonado por blockchain e tecnologias emergentes. Atualmente, estou focado em aprender mais sobre smart contracts, Solidity e Cairo, além de explorar o ecossistema Web3.
+Desenvolvedor apaixonado por blockchain e tecnologias emergentes. Atualmente, estou focado em aprender mais sobre smart contracts, Solidity, Rust e Cairo, além de explorar o ecossistema Web3.
 
 
 ## 🚀 Tecnologias que uso
 
 - **Backend**: C#, Java, Node.js, Rust
-- **Blockchain**: Solidity, Cairo, Starknet, SUI
-- **Frontend**: React, Angular
-- **Ferramentas**: Docker, Azure DevOps, GitHub Actions
+- **Blockchain**: Solidity, Cairo, Starknet
+- **Frontend**: React, Angular, svelt
+- **Ferramentas**: Docker, Azure DevOps, GitHub Actions, Google Cloud
 
 ## 🌟 Projetos em Destaque
 
